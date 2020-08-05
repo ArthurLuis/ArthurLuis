@@ -7,6 +7,10 @@
 -  **Ask me about :** Anything!, I'm happy to help or chat about random things :v:
 -  **Pronouns :** He/Him/His 
 
+### Goals
+- Be a full stack developer with a design background.
+- Master React JS and React Native technologies.
+- Create incredible projects that makes me proud. 💚
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3> 🤝🏻 Connect with Me </h3>
