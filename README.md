@@ -1,8 +1,8 @@
 ## Arthur Luis 👨‍💻
 ### About
--  **Working :** Mobile-App & Web Development at @citiufpe :iphone:
+-  **Working :** Open to work! :iphone:
 -  **Studying :** Information sistems at CIn - UFPE
--  **Learning :** React Native, ReactJS, Python and JS
+-  **Learning :** Mostly React Native, ReactJS, Python and JS
 -  **Hobbies :** Music :headphones: | Games 👾 | Play piano 🎹 | Movies, TV shows and animes 📺 
 -  **Ask me about :** Anything!, I'm happy to help or chat about random things :v:
 -  **Pronouns :** He/Him/His 
@@ -10,7 +10,7 @@
 ### Goals
 - Be a full stack developer with a design background.
 - Master React JS and React Native technologies.
-- Create incredible projects that makes me proud. 💚
+- Help to produce incredible projects that makes me proud. 💚
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3> 🤝🏻 Connect with Me </h3>
