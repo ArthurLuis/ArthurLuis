@@ -1,26 +1,37 @@
 ## Arthur Luis 👨‍💻
-### About
--  **Working :** Open to work! :iphone:
--  **Studying :** Information sistems at CIn - UFPE
--  **Learning :** Mostly React Native, ReactJS, Python and JS
--  **Hobbies :** Music :headphones: | Games 👾 | Play piano 🎹 | Movies, TV shows and animes 📺 
--  **Ask me about :** Anything!, I'm happy to help or chat about random things :v:
--  **Pronouns :** He/Him/His 
 
-### Goals
-- Be a full stack developer with a design background.
-- Master React JS and React Native technologies.
-- Help to produce incredible projects that makes me proud. 💚
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### About Me
+- **Currently:** Open to new opportunities! 🚀  
+- **Studying:** Information Systems at CIn – UFPE  
+- **Core Stack:** ReactJS, Next.js, TailwindCSS, TypeScript, Node.js/Express  
+- **Mobile:** React Native  
+- **APIs & Data:** Axios, REST, Supabase, MockAPI  
+- **Maps & Geolocation:** Mapbox GL  
+- **Testing:** Cypress, Jest  
+- **Tools:** Git & GitHub, Gitflow, GitHub Actions (CI/CD)  
+- **Hobbies:** Music 🎹 | Gaming 👾 | Running 🏃 | Series & Anime 📺  
+- **Pronouns:** He/Him/His  
 
-<h3> 🤝🏻 Connect with Me </h3>
+### Learning Goals
+- **Flutter & Dart** to broaden mobile toolkit  
+- **Blender & Three.js** for 3D web experiences  
+- **Modern backend** exploration: Python frameworks or Go  
+- **Observability:** Sentry, Prometheus, Grafana  
 
+---
+
+### Objectives
+- Master React Native and deepen mobile expertise  
+- Grow as a Full‑Stack developer with a design mindset  
+- Contribute to open‑source projects and enhance user experiences  
+- Publish articles and tutorials on best practices and performance  
+
+---
+
+### Let’s Connect! 🤝  
 <p align="center">
-    <a href="https://br.linkedin.com/in/arthur-luis-52878a1b3/"><img alt="Linkedin profile" title="Linkedin" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linkedin.svg" width="100" height="30" /></a>
-    <a href="mailto:alfa@cin.ufpe.br"><img alt="Gmail" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/google-gmail.svg" title="Email" width="100" height="30" /></a>
-    <a href="https://www.instagram.com/arthwrluis/"><img alt="Instagram" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" title="Instagram" width="35" height="35" /></a>
+  <a href="https://linkedin.com/in/arthur-luis-52878a1b3/"><img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linkedin.svg" width="30" height="30" alt="LinkedIn" /></a>
+  <a href="mailto:alfa@cin.ufpe.br"><img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/google-gmail.svg" width="30" height="30" alt="Email" /></a>
+  <a href="https://github.com/ArthurLuis"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" height="30" alt="GitHub" /></a>
+  <a href="https://instagram.com/arthwrluis/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" height="30" alt="Instagram" /></a>
 </p>
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
