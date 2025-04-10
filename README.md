@@ -29,9 +29,9 @@
 ---
 
 ### Let’s Connect! 🤝  
-<p align="center">
-  <a href="https://linkedin.com/in/arthur-luis-52878a1b3/"><img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linkedin.svg" width="30" height="30" alt="LinkedIn" /></a>
-  <a href="mailto:alfa@cin.ufpe.br"><img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/google-gmail.svg" width="30" height="30" alt="Email" /></a>
-  <a href="https://github.com/ArthurLuis"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30" height="30" alt="GitHub" /></a>
-  <a href="https://instagram.com/arthwrluis/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="30" height="30" alt="Instagram" /></a>
+<p align="center ">
+  <a href="https://linkedin.com/in/arthur-luis-52878a1b3/"><img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" width="50" height="50" alt="LinkedIn" /></a>
+  <a href="mailto:alfa@cin.ufpe.br"><img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/google-gmail.svg" width="50" height="50" alt="Email" /></a>
+  <a href="https://github.com/ArthurLuis"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50" height="50" alt="GitHub" /></a>
+  <a href="https://instagram.com/arthwrluis/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="50" height="50" alt="Instagram" /></a>
 </p>
