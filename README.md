@@ -9,10 +9,11 @@
 - **Maps & Geolocation:** Mapbox GL  
 - **Testing:** Cypress, Jest  
 - **Tools:** Git & GitHub, Gitflow, GitHub Actions (CI/CD)  
-- **Hobbies:** Music 🎹 | Gaming 👾 | Running 🏃 | Series & Anime 📺  
+- **AI & Tech:** GPT-3.5 Turbo, GPT-4 Turbo, DALL·E, Gemini, LangChain, Tesseract OCR, Perplexity AI, GitHub Copilot, Cursor  
 - **Pronouns:** He/Him/His  
 
 ### Learning Goals
+- **AI & LLMs:** Deepen understanding of prompt engineering, RAG architectures, and ethical AI practices  
 - **Flutter & Dart** to broaden mobile toolkit  
 - **Blender & Three.js** for 3D web experiences  
 - **Modern backend** exploration: Python frameworks or Go  
@@ -22,9 +23,10 @@
 
 ### Objectives
 - Master React Native and deepen mobile expertise  
-- Grow as a Full‑Stack developer with a design mindset  
-- Contribute to open‑source projects and enhance user experiences  
+- Grow as a Full-Stack developer with a design mindset  
+- Contribute to open-source projects and enhance user experiences  
 - Publish articles and tutorials on best practices and performance  
+- Build and refine AI-powered tools and workflows  
 
 ---
 
